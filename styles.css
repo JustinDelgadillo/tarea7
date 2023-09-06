@@ -1,0 +1,59 @@
+/* Estilos para el fondo principal*/
+body {
+    background-color: rgb(255, 240, 201);
+}body 
+
+
+/* Estilos para el encabezado */
+header {
+    font-size: 30px;
+    background-color: #1f1c1c;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+
+/* Estilos para los títulos de sección */
+h2 {
+    font-size: 24px;
+}
+
+
+/* Estilos para el contenedor de imágenes */
+.image-container {
+    display: flex; /* Utilizamos flexbox para alinear horizontalmente */
+    justify-content: center;
+}
+
+
+/* Estilos para las imágenes */
+img {
+    max-width: 50%; /* Ajusta el ancho máximo de las imágenes según tus necesidades */
+    height: auto; /* Mantiene la proporción de aspecto original */
+}
+
+/* Estilos para los párrafos de texto */
+p {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+
+/* Estilos para la lista de discografía */
+ul {
+    list-style: none;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+
+/* Estilos para el pie de página */
+footer {
+    background-color: #1f1c1c;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
